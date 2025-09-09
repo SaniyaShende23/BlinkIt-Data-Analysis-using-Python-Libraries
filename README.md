@@ -24,27 +24,27 @@ Import Libraries - Loaded essential libraries (numpy, pandas, matplotlib, seabor
 
 Data Loading - Read the dataset from Excel into a Pandas DataFrame.
 
-Data Cleaning - 
--Handled missing values.
--Removed/treated duplicates.
--Standardized categorical variables.
--Exploratory Data Analysis (EDA)
--Analyzed item weights, visibility, outlet sizes, and sales distribution.
--Identified correlations between numerical features.
+Data Cleaning  - 
+Handled missing values.
+Removed/treated duplicates.
+Standardized categorical variables.
+Exploratory Data Analysis (EDA)
+Analyzed item weights, visibility, outlet sizes, and sales distribution.
+Identified correlations between numerical features.
 
 Visualizations -
--Bar plots for product categories & outlet types.
--Histograms and KDE plots for numerical features.
--Heatmaps for correlation analysis.
+Bar plots for product categories & outlet types.
+Histograms and KDE plots for numerical features.
+Heatmaps for correlation analysis.
 
 Key Insights -
--Certain outlets consistently outperform others.
--Visibility and item weight have limited direct impact on sales.
--Supermarket-type outlets dominate total sales.
--Some categories contribute disproportionately to revenue.
+Certain outlets consistently outperform others.
+Visibility and item weight have limited direct impact on sales.
+Supermarket-type outlets dominate total sales.
+Some categories contribute disproportionately to revenue.
 
 📈 Results:
--Delivered actionable insights for sales strategy optimization.
--Visualized key patterns for decision-making.
--Built a foundation for predictive modeling in future work.
+Delivered actionable insights for sales strategy optimization.
+Visualized key patterns for decision-making.
+Built a foundation for predictive modeling in future work.
 
